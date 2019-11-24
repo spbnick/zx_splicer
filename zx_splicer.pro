@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=zx_bus_breakout.net
+LastNetListRead=zx_splicer.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0

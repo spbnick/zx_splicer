@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:zx_bus_breakout-cache
+LIBS:zx_splicer-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -20,7 +20,7 @@ U 1 1 5DD99EAB
 P 3400 1600
 F 0 "J1" H 3450 1917 50  0000 C CNN
 F 1 "Conn_02x04_Row_Letter_First" H 3450 1826 50  0000 C CNN
-F 2 "zx_bus_breakout:short_board_socket" H 3450 1825 50  0001 C CNN
+F 2 "zx_splicer:short_board_socket" H 3450 1825 50  0001 C CNN
 F 3 "~" H 3400 1600 50  0001 C CNN
 	1    3400 1600
 	1    0    0    -1  
@@ -31,7 +31,7 @@ U 1 1 5DD9A8D1
 P 3400 3250
 F 0 "J2" H 3450 4567 50  0000 C CNN
 F 1 "Conn_02x23_Row_Letter_First" H 3450 4476 50  0000 C CNN
-F 2 "zx_bus_breakout:long_board_socket" H 3400 3250 50  0001 C CNN
+F 2 "zx_splicer:long_board_socket" H 3400 3250 50  0001 C CNN
 F 3 "" H 3400 3250 50  0001 C CNN
 	1    3400 3250
 	1    0    0    -1  
@@ -366,7 +366,7 @@ U 1 1 5DE45FF2
 P 4900 1600
 F 0 "J3" H 4950 1917 50  0000 C CNN
 F 1 "Conn_02x04_Row_Letter_First" H 4950 1826 50  0000 C CNN
-F 2 "zx_bus_breakout:short_pin_header" H 4900 1600 50  0001 C CNN
+F 2 "zx_splicer:short_pin_header" H 4900 1600 50  0001 C CNN
 F 3 "~" H 4900 1600 50  0001 C CNN
 	1    4900 1600
 	1    0    0    -1  
@@ -377,7 +377,7 @@ U 1 1 5DE45FF8
 P 4900 3250
 F 0 "J4" H 4950 4567 50  0000 C CNN
 F 1 "Conn_02x23_Row_Letter_First" H 4950 4476 50  0000 C CNN
-F 2 "zx_bus_breakout:long_pin_header" H 4900 3250 50  0001 C CNN
+F 2 "zx_splicer:long_pin_header" H 4900 3250 50  0001 C CNN
 F 3 "~" H 4900 3250 50  0001 C CNN
 	1    4900 3250
 	1    0    0    -1  
@@ -712,7 +712,7 @@ U 1 1 5DE507AA
 P 6400 1600
 F 0 "J5" H 6450 1917 50  0000 C CNN
 F 1 "Conn_02x04_Row_Letter_First" H 6450 1826 50  0000 C CNN
-F 2 "zx_bus_breakout:short_pin_socket" H 6400 1600 50  0001 C CNN
+F 2 "zx_splicer:short_pin_socket" H 6400 1600 50  0001 C CNN
 F 3 "~" H 6400 1600 50  0001 C CNN
 	1    6400 1600
 	1    0    0    -1  
@@ -723,7 +723,7 @@ U 1 1 5DE507B0
 P 6400 3250
 F 0 "J6" H 6450 4567 50  0000 C CNN
 F 1 "Conn_02x23_Row_Letter_First" H 6450 4476 50  0000 C CNN
-F 2 "zx_bus_breakout:long_pin_socket" H 6400 3250 50  0001 C CNN
+F 2 "zx_splicer:long_pin_socket" H 6400 3250 50  0001 C CNN
 F 3 "~" H 6400 3250 50  0001 C CNN
 	1    6400 3250
 	1    0    0    -1  
@@ -1058,7 +1058,7 @@ U 1 1 5DE61D7A
 P 7900 1600
 F 0 "J7" H 7950 1917 50  0000 C CNN
 F 1 "Conn_02x04_Row_Letter_First" H 7950 1826 50  0000 C CNN
-F 2 "zx_bus_breakout:short_board_edge" H 7900 1600 50  0001 C CNN
+F 2 "zx_splicer:short_board_edge" H 7900 1600 50  0001 C CNN
 F 3 "~" H 7900 1600 50  0001 C CNN
 	1    7900 1600
 	1    0    0    -1  
@@ -1069,7 +1069,7 @@ U 1 1 5DE61D80
 P 7900 3250
 F 0 "J8" H 7950 4567 50  0000 C CNN
 F 1 "Conn_02x23_Row_Letter_First" H 7950 4476 50  0000 C CNN
-F 2 "zx_bus_breakout:long_board_edge" H 7900 3250 50  0001 C CNN
+F 2 "zx_splicer:long_board_edge" H 7900 3250 50  0001 C CNN
 F 3 "~" H 7900 3250 50  0001 C CNN
 	1    7900 3250
 	1    0    0    -1  

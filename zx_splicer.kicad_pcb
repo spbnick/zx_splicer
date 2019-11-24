@@ -205,7 +205,7 @@
     (add_net /~WR)
   )
 
-  (module zx_bus_breakout:long_pin_socket (layer F.Cu) (tedit 5DD9879B) (tstamp 5DD97624)
+  (module zx_splicer:long_pin_socket (layer F.Cu) (tedit 5DD9879B) (tstamp 5DD97624)
     (at 78.74 63.5)
     (descr "Through hole straight socket strip, 2x23, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 2x23 2.54mm double row")
@@ -575,7 +575,7 @@
     )
   )
 
-  (module zx_bus_breakout:long_pin_header (layer F.Cu) (tedit 5DD982EB) (tstamp 5DD9777D)
+  (module zx_splicer:long_pin_header (layer F.Cu) (tedit 5DD982EB) (tstamp 5DD9777D)
     (at 63.5 63.5)
     (descr "Through hole straight pin header, 2x23, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x23 2.54mm double row")
@@ -945,7 +945,7 @@
     )
   )
 
-  (module zx_bus_breakout:short_pin_socket (layer F.Cu) (tedit 5DD987FA) (tstamp 5DD97563)
+  (module zx_splicer:short_pin_socket (layer F.Cu) (tedit 5DD987FA) (tstamp 5DD97563)
     (at 78.74 50.8)
     (descr "Through hole straight socket strip, 2x04, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 2x04 2.54mm double row")
@@ -1049,7 +1049,7 @@
     )
   )
 
-  (module zx_bus_breakout:short_pin_header (layer F.Cu) (tedit 5DD9883A) (tstamp 5DD9788A)
+  (module zx_splicer:short_pin_header (layer F.Cu) (tedit 5DD9883A) (tstamp 5DD9788A)
     (at 63.5 50.8)
     (descr "Through hole straight pin header, 2x04, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x04 2.54mm double row")
@@ -1153,7 +1153,7 @@
     )
   )
 
-  (module zx_bus_breakout:short_board_socket (layer F.Cu) (tedit 5DD8DAE4) (tstamp 5DD97976)
+  (module zx_splicer:short_board_socket (layer F.Cu) (tedit 5DD8DAE4) (tstamp 5DD97976)
     (at 51 50.8)
     (path /5DD99EAB)
     (fp_text reference J1 (at 0 -2.54) (layer F.SilkS) hide
@@ -1180,7 +1180,7 @@
       (net 8 /A15))
   )
 
-  (module zx_bus_breakout:long_board_socket (layer F.Cu) (tedit 5DD8DAD8) (tstamp 5DD97909)
+  (module zx_splicer:long_board_socket (layer F.Cu) (tedit 5DD8DAD8) (tstamp 5DD97909)
     (at 51 63.5)
     (path /5DD9A8D1)
     (fp_text reference J2 (at 0 -2.54) (layer F.SilkS) hide
@@ -1283,7 +1283,7 @@
       (net 52 /D0))
   )
 
-  (module zx_bus_breakout:short_board_edge (layer F.Cu) (tedit 5DD8D6AD) (tstamp 5DD950A1)
+  (module zx_splicer:short_board_edge (layer F.Cu) (tedit 5DD8D6AD) (tstamp 5DD950A1)
     (at 96 50.8)
     (path /5DE61D7A)
     (fp_text reference J7 (at 0 -2.54) (layer F.SilkS) hide
@@ -1314,7 +1314,7 @@
       (net 8 /A15))
   )
 
-  (module zx_bus_breakout:long_board_edge (layer F.Cu) (tedit 5DD8D6F1) (tstamp 5DD9F875)
+  (module zx_splicer:long_board_edge (layer F.Cu) (tedit 5DD8D6F1) (tstamp 5DD9F875)
     (at 95.999999 63.5)
     (path /5DE61D80)
     (fp_text reference J8 (at 0 -2.54) (layer F.SilkS) hide
