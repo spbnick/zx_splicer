@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name zx_bus_breakout)(type KiCad)(uri ${KIPRJMOD}/zx_bus_breakout.pretty)(options "")(descr ""))
+)
